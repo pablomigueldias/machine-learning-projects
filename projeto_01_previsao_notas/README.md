@@ -1,4 +1,4 @@
-Projeto 01 — Previsão de Notas dos Estudantes
+# Projeto 01 — Previsão de Notas dos Estudantes
 
 Este projeto tem como objetivo prever a **nota de matemática (math score)** de estudantes com base em informações socioeducacionais e desempenho em outras disciplinas.  
 O projeto faz parte da minha trilha de aprendizado em **Machine Learning**, cobrindo desde a **análise exploratória de dados (EDA)** até o **deploy do modelo treinado**.
