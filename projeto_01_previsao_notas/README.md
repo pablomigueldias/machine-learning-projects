@@ -15,41 +15,6 @@ Prever a **nota de matemática** a partir de variáveis como:
 - participação em curso preparatório  
 - notas de leitura e escrita
 
----
-
-## Estrutura do Projeto
-
-machine-learning-projects/
-│
-├── projeto_01_previsao_notas/
-│ ├── data/
-│ │ └── StudentsPerformance.csv
-│ │
-│ ├── imagens/
-│ │ ├── comparacao.png
-│ │ ├── correlacao-notas.png
-│ │ ├── dispersao-residuos.png
-│ │ ├── distribuicao-de-notas.png
-│ │ ├── distribuicao-residuos.png
-│ │ ├── influencia-curso.png
-│ │ ├── media-por-genero.png
-│ │ └── regressao-linear.png
-│ │
-│ ├── models/
-│ │ └── melhor_modelo.joblib
-│ │
-│ ├── notebooks/
-│ │ └── previsao_notas.ipynb
-│ │
-│ ├── src/
-│ │ ├── train.py
-│ │ └── predict.py
-│ │
-│ └── README.md
-
-
-
----
 
 ## 🔍 Etapas do Projeto
 
