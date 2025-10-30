@@ -24,8 +24,8 @@ Foram analisadas as distribuições das notas e suas correlações:
 
 | Gráfico | Descrição |
 |----------|------------|
-| ![Distribuição das Notas](reports/distribuicao-de-notas.png) | Mostra a frequência das notas de matemática, leitura e escrita. |
-| ![Correlação entre Notas](reports/correlacao-notas.png) | Correlação forte entre leitura e escrita (0.95), e moderada entre leitura e matemática (0.82). |
+| ![Distribuição das Notas](imagens/distribuicao-de-notas.png) | Mostra a frequência das notas de matemática, leitura e escrita. |
+| ![Correlação entre Notas](imagens/correlacao-notas.png) | Correlação forte entre leitura e escrita (0.95), e moderada entre leitura e matemática (0.82). |
 
 ---
 
@@ -33,8 +33,8 @@ Foram analisadas as distribuições das notas e suas correlações:
 
 | Gráfico | Interpretação |
 |----------|---------------|
-| ![Influência do Curso Preparatório](reports/influencia-curso.png) | Estudantes que completaram o curso preparatório tiveram notas de matemática mais altas. |
-| ![Média por Gênero](reports/media-por-genero.png) | Homens apresentaram leve vantagem nas notas de matemática em relação às mulheres. |
+| ![Influência do Curso Preparatório](imagens/influencia-curso.png) | Estudantes que completaram o curso preparatório tiveram notas de matemática mais altas. |
+| ![Média por Gênero](imagens/media-por-genero.png) | Homens apresentaram leve vantagem nas notas de matemática em relação às mulheres. |
 
 ---
 
@@ -49,7 +49,7 @@ Modelos testados:
 
 | Gráfico | Interpretação |
 |----------|---------------|
-| ![Comparação de Modelos](reports/comparacao.png) | A **Regressão Linear** apresentou o melhor desempenho (R² ≈ 0.87). |
+| ![Comparação de Modelos](imagens/comparacao.png) | A **Regressão Linear** apresentou o melhor desempenho (R² ≈ 0.87). |
 
 ---
 
@@ -57,9 +57,9 @@ Modelos testados:
 
 | Gráfico | Interpretação |
 |----------|---------------|
-| ![Regressão Linear — Real vs Predito](reports/regressao-linear.png) | Forte relação linear entre valores reais e previstos. |
-| ![Dispersão dos Resíduos](reports/dispersao-residuos.png) | Resíduos distribuídos aleatoriamente, indicando um bom ajuste. |
-| ![Distribuição dos Resíduos](reports/distribuicao-residuos.png) | Distribuição aproximadamente normal, reforçando a consistência do modelo. |
+| ![Regressão Linear — Real vs Predito](imagens/regressao-linear.png) | Forte relação linear entre valores reais e previstos. |
+| ![Dispersão dos Resíduos](imagens/dispersao-residuos.png) | Resíduos distribuídos aleatoriamente, indicando um bom ajuste. |
+| ![Distribuição dos Resíduos](imagens/distribuicao-residuos.png) | Distribuição aproximadamente normal, reforçando a consistência do modelo. |
 
 ---
 
