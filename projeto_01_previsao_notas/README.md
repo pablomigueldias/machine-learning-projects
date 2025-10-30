@@ -67,9 +67,9 @@ Modelos testados:
 
 | Métrica | Valor |
 |----------|-------|
-| R²       | 0.87 |
-| MAE      | 3.42 |
-| RMSE     | 4.91 |
+| R²       | 0.88 |
+| MAE      | 4.21 |
+| RMSE     | 5.39 |
 
 O modelo explica **87% da variação das notas de matemática** com erro médio de aproximadamente **3,4 pontos**.
 
@@ -121,7 +121,7 @@ for i, p in enumerate(predicoes, 1):
     print(f"Aluno {i}: nota prevista de matemática = {round(p, 2)}")
 ```
 
-## 🧩 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Python 3.11
 Pandas
